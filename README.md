@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-31 12:20:57
- * @LastEditTime: 2020-12-31 13:19:44
+ * @LastEditTime: 2020-12-31 13:20:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \git_learning\README.md
@@ -20,3 +20,4 @@ added in the dev_2 3
 added in the main branch 6
 added in the github
 added in the main branch 7
+added in the github 2
